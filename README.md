@@ -1,17 +1,17 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=13tVho7wCgsVs6TvR-HsV2H497y4-z2w7" width="150" alt="Akash Chauhan" />
+  <img src="https://drive.google.com/uc?export=view&id=13tVho7wCgsVs6TvR-HsV2H497y4-z2w7" width="180" alt="Akash Chauhan" />
   <h1 align="center">Hi 👋, I'm Akash Chauhan</h1>
-  <p align="center">🌐 Frontend Learner | Web Developer in progress | Database Enthusiast</p>
+  <p align="center">🌐 Frontend Learner | Web Developer in Progress | Database Explorer</p>
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-🌟 I’m Akash — a web dev beginner with a love for creating clean and simple web pages.  
-💡 I know basic **HTML & CSS** and I’m learning **Web Development + Databases**.  
-🚀 My goal is to become a Full Stack Developer someday!
+✨ I’m **Akash Chauhan** — a beginner Web Developer who loves building simple and clean websites.  
+💡 I know **HTML & CSS** and I’m currently learning **JavaScript, Databases & Backend Basics**.  
+🎯 My aim is to become a Full Stack Developer!
 
 ---
 
@@ -23,8 +23,8 @@
 
 ### 📖 Learning  
 - JavaScript  
-- Backend basics  
-- SQL & Databases  
+- SQL & Database Fundamentals  
+- Backend basics
 
 ---
 
@@ -36,27 +36,31 @@
 
 ---
 
-## 🌱 Learning Path  
+## 🌱 Learning Journey  
 
-I believe in constant progress — a little code every day brings big results! 💪  
-- Practice daily 📝  
-- Build small projects 🚀  
-- Grow everyday 📈
+I follow constant improvement:  
+✔ Small steps every day  
+✔ Build projects to learn  
+✔ Level up with each challenge!
+
+> “Small progress each day adds up to big results.” 🚀
 
 ---
 
-## 📫 Let’s Connect  
+## 📫 Connect With Me  
 
-📧 **Email:** your-email@example.com  
-🌐 **Portfolio:** Coming Soon...
+📧 Email: your-email@example.com  
+🌍 Portfolio: Coming Soon…
 
 ---
 
 ## ✨ Fun Fact  
 
-I enjoy learning tech and improving my coding skills every day 💙  
-⭐ Thanks for visiting my profile!
+I enjoy learning new tech and improving my skills one day at a time 💙
 
+---
+
+⭐ Thank you for visiting my GitHub profile!
 
 
 <!--
