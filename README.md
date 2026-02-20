@@ -1,66 +1,70 @@
 <!-- HEADER -->
+<!-- ===================== BANNER ===================== -->
+
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=13tVho7wCgsVs6TvR-HsV2H497y4-z2w7" width="180" alt="Akash Chauhan" />
-  <h1 align="center">Hi 👋, I'm Akash Chauhan</h1>
-  <p align="center">🌐 Frontend Learner | Web Developer in Progress | Database Explorer</p>
+  <img src="https://drive.google.com/uc?export=view&id=13tVho7wCgsVs6TvR-HsV2H497y4-z2w7" 
+       alt="Akash Chauhan Banner" 
+       width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Akash Chauhan</h1>
+<h3 align="center">🌐 Frontend Developer | 📚 Database Learner | 🚀 Future Full Stack Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/AKASH450CH">
+    <img src="https://img.shields.io/github/followers/AKASH450CH?label=Follow&style=social" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-✨ I’m **Akash Chauhan** — a beginner Web Developer who loves building simple and clean websites.  
-💡 I know **HTML & CSS** and I’m currently learning **JavaScript, Databases & Backend Basics**.  
-🎯 My aim is to become a Full Stack Developer!
+✨ Passionate beginner in Web Development  
+💻 Skilled in **HTML & CSS**  
+📚 Currently learning **JavaScript & Databases**  
+🎯 Goal: Become a Professional Full Stack Developer  
 
----
-
-## 🛠️ Skills  
-
-### 💻 Frontend  
-- HTML5  
-- CSS3  
-
-### 📖 Learning  
-- JavaScript  
-- SQL & Database Fundamentals  
-- Backend basics
+I believe in learning step by step and improving every day 💙
 
 ---
 
-## 📈 GitHub Stats  
+## 🛠️ Tech Stack
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASH450CH&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH450CH&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Learning Journey  
-
-I follow constant improvement:  
-✔ Small steps every day  
-✔ Build projects to learn  
-✔ Level up with each challenge!
-
-> “Small progress each day adds up to big results.” 🚀
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKASH450CH&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH450CH&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- JavaScript Advanced Concepts  
+- SQL & Database Design  
+- Backend Basics  
+
+---
+
+## 📫 Connect With Me
 
 📧 Email: your-email@example.com  
-🌍 Portfolio: Coming Soon…
+🌐 Portfolio: Coming Soon...
 
 ---
 
-## ✨ Fun Fact  
-
-I enjoy learning new tech and improving my skills one day at a time 💙
-
----
-
-⭐ Thank you for visiting my GitHub profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐  
+</p>
 
 
 <!--
