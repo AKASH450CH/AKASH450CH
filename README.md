@@ -1,50 +1,61 @@
-## Hi there 👋
-.
+<!-- HEADER -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=13tVho7wCgsVs6TvR-HsV2H497y4-z2w7" width="150" alt="Akash Chauhan" />
+  <h1 align="center">Hi 👋, I'm Akash Chauhan</h1>
+  <p align="center">🌐 Frontend Learner | Web Developer in progress | Database Enthusiast</p>
+</p>
 
-🌟 Hi there, I'm Akash Chauhan 👋
-💻 Frontend Learner | 🌐 Web Developer | 📚 Database Explorer
+---
 
-Welcome to my GitHub profile!
-I'm Akash Chauhan ( @AKASH450CH ) — a passionate beginner in web development who loves building clean and simple websites.
+## 👨‍💻 About Me  
 
-🚀 About Me
+🌟 I’m Akash — a web dev beginner with a love for creating clean and simple web pages.  
+💡 I know basic **HTML & CSS** and I’m learning **Web Development + Databases**.  
+🚀 My goal is to become a Full Stack Developer someday!
 
-✨ I know basic HTML and CSS
-📚 Currently learning Web Development & Databases
-🧠 Always curious to learn new technologies
-🎯 Goal: Become a Full Stack Developer
+---
 
-I enjoy turning ideas into simple, beautiful, and user-friendly web pages.
+## 🛠️ Skills  
 
-🛠️ Skills
+### 💻 Frontend  
+- HTML5  
+- CSS3  
 
-💻 Frontend
+### 📖 Learning  
+- JavaScript  
+- Backend basics  
+- SQL & Databases  
 
-HTML5
+---
 
-CSS3
+## 📈 GitHub Stats  
 
-📖 Currently Learning
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASH450CH&show_icons=true&theme=tokyonight)
 
-JavaScript
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH450CH&layout=compact&theme=tokyonight)
 
-Databases (SQL & DB Concepts)
+---
 
-Backend basics
+## 🌱 Learning Path  
 
-📊 GitHub Stats
+I believe in constant progress — a little code every day brings big results! 💪  
+- Practice daily 📝  
+- Build small projects 🚀  
+- Grow everyday 📈
 
-🌱 Learning Journey
+---
 
-I believe in:
+## 📫 Let’s Connect  
 
-Practice every day 📝
+📧 **Email:** your-email@example.com  
+🌐 **Portfolio:** Coming Soon...
 
-Build small projects 🚀
+---
 
-Improve step by step 📈
+## ✨ Fun Fact  
 
-“Small progress every day adds up to big results.”
+I enjoy learning tech and improving my coding skills every day 💙  
+⭐ Thanks for visiting my profile!
 
 
 
