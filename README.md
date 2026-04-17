@@ -57,7 +57,7 @@ I believe in learning step by step and improving every day 💙
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com  
+📧 Email: akashkumarchauhan450@gmail.com
 🌐 Portfolio: Coming Soon...
 
 ---
